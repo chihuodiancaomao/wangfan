@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.wf</groupId>
 	<artifactId>spring-boot-mybatis</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-mybatis</name>
 	<description>Demo project for Spring Boot</description>
