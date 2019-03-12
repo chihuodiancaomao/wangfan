@@ -15,7 +15,6 @@ public class UserServer {
 	private UserDao userDao;
 	
 	//查询所有
-	//。。。
 	public List<TbUser> findAll() {
 	
 		List<TbUser> userList = userDao.findAll();
